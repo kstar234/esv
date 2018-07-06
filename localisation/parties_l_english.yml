@@ -1,0 +1,40 @@
+﻿l_english:
+ communism:0 "Authoritarian Communist"
+ communism_noun:0 "Authoritarian Communism"
+ communism_desc:0 "Totalitarian Regime"
+
+ sovietism:0 "Bolsehvik"
+ sovietism_noun:0 "Sovietism"
+ sovietism_desc:0 "Totalitarian Regime"
+
+ socialism:0 "Socialist"
+ socialism_noun:0 "Socialismm"
+ socialism_desc:0 "Democratic Regime"
+
+ left_democratic:0 "Left Democratic"
+ left_democratic_noun:0 "Left Democracy"
+ left_democratic_desc:0 "Democratic Regime"
+
+ centre_democratic:0 "Centre Democratic"
+ centre_democratic_noun:0 "Centre Democracy"
+ centre_democratic_desc:0 "Democratic Regime"
+
+ democratic:0 "Right Democratic"
+ democratic_noun:0 "Right Democracy"
+ democratic_desc:0 "Democratic Regime"
+
+ neutrality:0 "Authoritarian"
+ neutrality_noun:0 "Authoritarianism"
+ neutrality_desc:0 "Totalitarian Regime"
+
+ monarchism:0 "Monarchist"
+ monarchism_noun:0 "Monarchism"
+ monarchism_desc:0 "Totalitarian Regime"
+
+ nationalism:0 "Nationalist"
+ nationalism_noun:0 "Nationalism"
+ nationalism_desc:0 "Totalitarian Regime"
+
+ fascism:0 "Fascist"
+ fascism_noun:0 "Fascism"
+ fascism_desc:0 "Totalitarian Regime"
